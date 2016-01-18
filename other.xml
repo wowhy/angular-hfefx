@@ -66,4 +66,29 @@
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="C:/Program Files/nodejs/node.exe" version="5.0.0" last-modified="1446092654000" />
   </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="http://172.17.10.15/svn/hfefx" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="http://172.17.10.15/svn/hfefx" />
+      </list>
+    </option>
+  </component>
+  <component name="SvnBranchMapperManager">
+    <option name="myMapping">
+      <map>
+        <entry key="http://172.17.10.15/svn/hfefx/hfefx/trunk">
+          <value>
+            <set>
+              <option value="D:\Source\hfefx\hfefx" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
 </application>
