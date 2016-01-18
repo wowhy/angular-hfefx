@@ -69,11 +69,15 @@
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
+        <option value="http://172.17.10.15/svn/huc" />
+        <option value="svn://172.17.10.15/huc" />
         <option value="http://172.17.10.15/svn/hfefx" />
       </list>
     </option>
     <option name="myTypedURLs">
       <list>
+        <option value="http://172.17.10.15/svn/huc" />
+        <option value="svn://172.17.10.15/huc" />
         <option value="http://172.17.10.15/svn/hfefx" />
       </list>
     </option>
