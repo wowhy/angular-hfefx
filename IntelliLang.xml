@@ -9,5 +9,10 @@
       <display-name>label/@for</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("for")).withParent(xmlTag().withLocalName(string().equalTo("label")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
+    <injection language="ECMAScript 6" injector-id="xml">
+      <display-name>script es6</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("script"))]]></place>
+      <xpath-condition>@type=&quot;es6&quot;</xpath-condition>
+    </injection>
   </component>
 </application>
